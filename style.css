@@ -1,0 +1,22 @@
+.title .header {
+    background-color: aqua;
+    font-family: Verdana, sans-serif;
+    text-align: center;
+}
+
+.title .image {
+    width: 300px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title .desc {
+    font-family: 'Trebuchet MS', Arial, sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: darkblue;
+}
